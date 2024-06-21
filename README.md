@@ -9,8 +9,6 @@ Wechat: ZHJ1bmtfa2s=
 
 ### 訪客統計 | Vistors Count
 
- ![:name](https://count.getloli.com/get/@sec404)
-
 
 
 ### 統計數據 | statistics
